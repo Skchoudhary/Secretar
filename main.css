@@ -1,0 +1,25 @@
+
+html
+{
+	background: rgb(112,34,21);
+}
+.cover
+{
+	font-size: 2em ;
+	text-align: center;
+	margin-top: 10%;
+	margin-left: 5%;
+}
+.btnsign
+{
+	text-align: center;
+	margin-top: 12%;
+	margin-left: 83%;
+	padding: 2%;
+}
+.btnlogin
+{
+	text-align: center;
+	margin-top: 12%;
+	padding: 2%;
+}
